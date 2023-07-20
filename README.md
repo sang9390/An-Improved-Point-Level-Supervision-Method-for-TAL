@@ -30,7 +30,7 @@ pip install torch==1.6.0+cu101 torchvision==0.7.0+cu101 –f https://download.py
 
 # CUDA 11.3
 - pip install torch==1.7.1+cu110 torchvision==0.8.2+cu110 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
-
+//
 
 ### Testing
 python main_eval.py
