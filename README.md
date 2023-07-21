@@ -37,6 +37,8 @@ pip install torch==1.6.0+cu101 torchvision==0.7.0+cu101 –f https://download.py
 - Place the features inside the dataset folder.
 
 ### Testing
+The pre-trained model can be found [here](http://naver.me/xI2ILW8L). You can evaluate the model by running the command below.
+- Place the pre-trained model inside the models folder.
 ```shell
 conda activate IPLSM
 python main_eval.py
